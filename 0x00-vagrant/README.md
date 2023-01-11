@@ -1,0 +1,1 @@
+*This* directory contains the answer to the command uname when typed without an option and it gives the answer as **Linux**.
